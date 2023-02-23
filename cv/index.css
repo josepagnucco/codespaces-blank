@@ -52,7 +52,7 @@ body {
 }
 .info .tituloseccion {
     color: antiquewhite;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
     font-size: xx-large ;
     text-align: center;
     font-weight: bolder;
@@ -83,6 +83,6 @@ body {
     padding-right: 1%;
     background: #A288A6;
     color: aliceblue;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:   Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
     border-radius: 5px;
 }
